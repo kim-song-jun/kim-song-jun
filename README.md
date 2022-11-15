@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Songjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-song-jun&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-song-jun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-song-jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
