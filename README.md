@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/쀼우-Green?style=sflat&logo=Vue.js&Color=white/>
+
+<img src="https://img.shields.io/badge/쀼우-Green?style=sflat&logo=Vue.js&Color=white"/>
